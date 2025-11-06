@@ -1,0 +1,24 @@
+streamlit
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+
+
+git add requirements.txt
+git commit -m "Add requirements.txt"
+git push
+
+
+
+
+
+
+
+
+
+
+
+
+
